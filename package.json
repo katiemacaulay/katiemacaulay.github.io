@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "resume export index.html --format html"
+    "build": "resume export index.html --format html --theme flat_projects"
   },
   "repository": {
     "type": "git",

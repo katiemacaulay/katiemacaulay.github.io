@@ -46,44 +46,41 @@
     "work": [
       {
         "company": "Austin Coding Academy",
-        "position": "Chief Technology Officer / Lead Instructor",
+        "position": "Academic Manager Assistant",
         "website": "https://austincodingacademy.com",
-        "startDate": "2015-08-01",
-        "summary": "In charge of all things technical, authored curriculums, and taught web development courses to adult learners.",
+        "startDate": "2019-03",
+        "summary": "Curriculum Development, Instructor Development, Student Relations",
         "highlights": [
-          "Responsible for entire company software infrastructure",
-          "Created, maintained, and led interns and contributors on Campus Manager, our custom Learning Management System",
-          "Authored curriculums on HTML, CSS, JavaScript, Node.js, MongoDB",
-          "Developed workbooks with CI integration for linting",
-          "Maintained web presences for all four locations Austin, San Antonio, Houston, and Dallas",
-          "Built reporting infrastructure that combined data from multiple sources: Payments, CRM, LMS, etc. Ask me about YoSQL!",
-          "Implemented automation for web hooks, status checks, user events, reports, deployments, tests, etc.",
-          "Implementing/analyzing tracking services such as Google Analytics/Tag Manager, Facebook Pixel, click heatmaps, etc",
-          "SEO Optimization"
+            "Work-through coding challenges to test and improve in-class assignments",
+            "Regularly propose advancements in ACA’s curriculum",
+            "Based on student, instructor and personal observations",
+            "Code Reviews of curriculum updates including typos and grammar",
+            "Improve Instructor Performance",
+            "Conduct in-class observations & Provide quality feedback",
+            "Improve Student Confidence and Competence",
+            "Routinely check-in & Provide Q&A help and guidance"
         ]
       },
       {
-        "company": "SkillsEngine",
-        "position": "Senior Software Engineer",
-        "website": "https://skillsengine.com",
-        "startDate": "2017-10-16",
-        "endDate": "2019-03-13",
-        "summary": "Develop web service around skill predicting and aligning machine-learning driven service",
+        "company": "St. Theresa's Catholic School",
+        "position": "Web Development Instructor and Music Teacher",
+        "website": "https://st-theresa.org/",
+        "startDate": "2017-07-01",
+        "summary": "PreK-8th Teacher, helped develop a Web Development class as a Middle School Elective",
         "highlights": [
-          "Work with modern web stack: React + Redux, Ruby on Rails",
-          "Agile environment and collaborative coding",
-          "Full Stack development, worked on all corners of the code base, services, and integrations"
+          "Teaching HTML, CSS, and JavaScript",
+          "Create Curriculum, Coodinate School Events, Mentor Teachers"
         ]
       },
       {
-        "company": "Continuum Analytics",
-        "position": "Software Engineer",
-        "website": "https://continuum.io",
-        "startDate": "2015-06-08",
-        "endDate": "2017-01-01",
-        "summary": "Bokeh contributor, an open-source python driven graph generator. Implemented and designed client-specific projects and solutions.",
+        "company": "Wayside Schools",
+        "position": "Teacher",
+        "website": "https://waysideschools.org/",
+        "startDate": "2012-08",
+        "endDate": "2017-05",
+        "summary": "Team Leader, Professional Development Presentor, and Taught PreK-5th.",
         "highlights": [
-          "Worked on https://anaconda.org, a packaging and environment manager repository",
+          "Team Lead for Technical Solutions",
           "Contributed to open-source packages such as Bokeh (https://bokeh.pydata.org)",
           "Fast-paced full-stack client-specific projects with modern web development stacks"
         ]
