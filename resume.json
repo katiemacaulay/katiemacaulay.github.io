@@ -68,8 +68,11 @@
         "startDate": "2017-07-01",
         "summary": "PreK-8th Teacher, helped develop a Web Development class as a Middle School Elective",
         "highlights": [
-          "Teaching HTML, CSS, and JavaScript",
-          "Create Curriculum, Coodinate School Events, Mentor Teachers"
+            "Teaching HTML, CSS, and JavaScript",
+            "Create Curriculum and Organize Time Outlines",
+            "Coodinate School Events",
+            "Schedule Assistant Coordinator",
+            "Mentor and trainer for beginnning teachers"
         ]
       },
       {
@@ -78,24 +81,11 @@
         "website": "https://waysideschools.org/",
         "startDate": "2012-07-01",
         "endDate": "2017-07-01",
-        "summary": "Team Leader, Professional Development Presentor, and Taught PreK-5th.",
+        "summary": "Taught PreK-5th Music.",
         "highlights": [
-          "Team Lead for Technical Solutions",
-          "Contributed to open-source packages such as Bokeh (https://bokeh.pydata.org)",
-          "Fast-paced full-stack client-specific projects with modern web development stacks"
-        ]
-      },
-      {
-        "company": "Generation Ready",
-        "position": "Lead Software Engineer + Architect",
-        "website": "https://generationready.com",
-        "startDate": "2013-11-01",
-        "endDate": "2015-06-05",
-        "summary": "Designed, built, and maintained in-house internet software. Headed small team of web developers and quality assurance technicians.",
-        "highlights": [
-          "Flourished in a fast-paced, agile environment",
-          "Developed deep PHP and Javascript skills",
-          "Learned and implemented new technologies often"
+          "IT Team Lead",
+          "Professional Development Presentor",
+          "Team Leader(3 years)"
         ]
       }
     ],
@@ -106,7 +96,7 @@
         "highlights": [
           "Learning Management System and Course Management Tool",
           "Creator and current maintainer",
-          "Over 700 Users",
+          "Over 700 Usersx",
           "Supports web hooks with Zapier",
           "Powerful reporting engine",
           "Built with MongoDB, Node.js, Express.js, Passport.js, Backbone.js, and React.js"
