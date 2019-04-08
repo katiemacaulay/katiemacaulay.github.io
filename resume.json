@@ -5,7 +5,7 @@
       "picture": "https://secure.gravatar.com/avatar/7aa99448ea61a9b95ebfe547aecb2dfe?size=100",
       "email": "katiemmacaulay@gmail.com",
       "website": "https://katiesomethingmacaulay.com",
-      "summary": "A life-learner and new technology nerd, I work hard at the things I love: programming, teaching, and learning.",
+      "summary": "Collaborative. I love to learn, teach, play, and do serious work. Action-oriented problem solver.",
       "phone": "(214) 460-0996",
       "location": {
         "city": "Austin",
@@ -53,7 +53,6 @@
         "highlights": [
             "Work-through coding challenges to test and improve in-class assignments",
             "Regularly propose advancements in ACA’s curriculum",
-            "Based on student, instructor and personal observations",
             "Code Reviews of curriculum updates including typos and grammar",
             "Improve Instructor Performance",
             "Conduct in-class observations & Provide quality feedback",
@@ -66,13 +65,14 @@
         "position": "Web Development Instructor and Music Teacher",
         "website": "https://st-theresa.org/",
         "startDate": "2017-07-01",
-        "summary": "PreK-8th Teacher, helped develop a Web Development class as a Middle School Elective",
+        "summary": "PreK-8th Grade Teacher",
         "highlights": [
-            "Teaching HTML, CSS, and JavaScript",
-            "Create Curriculum and Organize Time Outlines",
-            "Coodinate School Events",
-            "Schedule Assistant Coordinator",
-            "Mentor and trainer for beginnning teachers"
+            "Teaching Web Development Elective for 7th & 8th Grade Students",
+            "Teaching basics of front-end development",
+            "Mentor and trainer for beginning teachers",
+            "Created Web Tutorials for Online Teacher Tools",
+            "Create and Organize Curriculum",
+            "Coordinate School Events"
         ]
       },
       {
@@ -83,69 +83,65 @@
         "endDate": "2017-07-01",
         "summary": "Taught PreK-5th Music.",
         "highlights": [
-          "IT Team Lead",
-          "Professional Development Presentor",
-          "Team Leader(3 years)"
+          "IT Team Lead: helped with basic day-to-day issues",
+          "Team Leader(3 years)",
+          "School Schedule Assistant Coordinator",
+          "Professional Development Presenter: Classroom Management & Social, Emotional Learning, Integrating the Arts into the Core Classroom Subjects, & Specialized Topics"
         ]
       }
     ],
     "projects": [
       {
-        "name": "Campus Manager",
-        "description": "Learning Management System and Course Management Tool",
+        "name": "Teacher Scheduler",
+        "description": "Scheduler for Teachers who have large quantities of classes a week",
         "highlights": [
-          "Learning Management System and Course Management Tool",
+          "Scheduler for Teachers who have large quantities of classes a week",
           "Creator and current maintainer",
-          "Over 700 Usersx",
-          "Supports web hooks with Zapier",
-          "Powerful reporting engine",
-          "Built with MongoDB, Node.js, Express.js, Passport.js, Backbone.js, and React.js"
+          "Built with MongoDB, Node.js, Express.js, and React.js"
         ],
         "keywords": [
           "MongoDB",
           "Node",
           "Express",
-          "Passport",
-          "Backbone",
-          "React"
+          "React",
+          "Redux"
         ],
-        "url": "https://github.com/AustinCodingAcademy/campus-manager",
+        "url": "https://github.com/katiemacaulay/TeacherScheduler",
         "roles": [
           "Creator",
           "Maintainer"
         ],
-        "entity": "Austin Coding Academy",
+        "entity": "Personal",
         "type": "Web Application"
       },
       {
-        "name": "AdFree.Life",
+        "name": "Music Clicker Game",
+        "description": "Help students learn the musical notes in a scale",
         "highlights": [
-          "Adblocking as a Service",
-          "Sets up a pre-configured Pi-Hole on a dedicated VPS",
-          "Uses cron jobs to generate trials",
-          "Hit #11 on Hacker News! (https://news.ycombinator.com/item?id=14910683)",
-          "Registration currently disabled while licensing is figured out"
+          "Use of Music jQuery Library",
+          "Good Ol' Vanilla Javascript"
         ],
-        "keywords": [],
-        "url": "https://ad-free-life.herokuapp.com/",
-        "roles": ["Owner"],
-        "entity": "Startup",
-        "type": "SAAS"
-      },
-      {
-        "name": "YoSQL",
-        "highlights": [
-          "Converts NoSQL databases and JSON collections into SQL tables",
-          "Creator and current maintainer",
-          "Integrates with Zapier for web hook functionality",
-          "Save and share queries",
-          "API to integrate with any SPA frontend"
-        ],
-        "keywords": [],
-        "url": "https://github.com/kevincolten/yosql",
+        "keywords": ["JavaScript/jQuery"],
+        "url": "https://github.com/katiemacaulay/checkpoint/tree/master/checkpoint3",
         "roles": ["Creator"],
         "entity": "Personal",
-        "type": "Library"
+        "type": "Web Application"
+      },
+      {
+        "name": "Number Game",
+        "description": "Hackathon Project: Create a Web App for people bored at work",
+        "highlights": [
+          "Display of a quick idea developed",
+          "Built with React & Material UI"
+        ],
+        "keywords": [
+          "Material UI",
+          "React"
+        ],
+        "url": "https://github.com/katiemacaulay/AddingNumberGame",
+        "roles": ["Co-Creator"],
+        "entity": "Personal",
+        "type": "Web Application"
       }
     ],
     "skills": [
@@ -154,14 +150,7 @@
         "keywords":
         [
           "JavaScript/Node.js",
-          "Ruby",
-          "PHP",
-          "Python",
-          "SQL",
-          "NoSQL",
-          "Bash",
-          "Linux",
-          "C#"
+          "Interested in Learning Python"
         ]
       },
       {
@@ -170,32 +159,18 @@
           "HTML/CSS",
           "JavaScript/jQuery",
           "Express/Node.js",
-          "Backbone/React + Redux",
-          "Rails",
-          "Laravel",
-          "Bootstrap/Foundation/Material",
-          "MongoDB",
-          "MySQL/Postgres/Sqlite",
-          "Authorization/Authentication",
-          "Responsive/Mobile Development",
-          "Bokeh/Bokeh Server",
-          "Grunt/Gulp/Webpack",
-          "SASS/LESS/UglifyJS"
+          "React + Redux",
+          "Bootstrap/Material",
+          "MongoDB"
         ]
       },
       {
         "name": "Technologies",
         "keywords": [
-          "Continuous Integration",
-          "Automated Deployment",
-          "Automated Testing",
-          "AWS/Heroku/DigitalOcean",
           "Heroku/Build Packs",
           "Git/GitHub",
-          "Grunt/Gulp/WebPack",
-          "REST APIs",
-          "Automated SSL Certificates",
-          "Data Visualization"
+          "WebPack",
+          "REST APIs"
         ]
       }
     ]
