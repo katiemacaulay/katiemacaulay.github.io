@@ -14,8 +14,8 @@
       "profiles": [
         {
           "network": "PDF Resume",
-          "username": "Kevin Colten",
-          "url": "http://kevincolten.com/KevinColten.pdf"
+          "username": "Katie Macaulay",
+          "url": "in-progress"
         },
         {
           "network": "GitHub",
@@ -24,22 +24,13 @@
         },
         {
           "network": "GitHub",
-          "username": "kevincolten",
-          "url": "https://github.com/kevincolten"
-        },
-        {
-          "network": "GitLab",
-          "username": "kevincolten",
-          "url": "https://github.com/kevincolten"
+          "username": "katiemacaulay",
+          "url": "https://github.com/katiemacaulay"
         },
         {
           "network": "LinkedIn",
-          "username": "kevincolten",
-          "url": "https://www.linkedin.com/in/kevincolten/"
-        },
-        {
-          "network": "Skype",
-          "username": "kevincolten"
+          "username": "katiemacaulay",
+          "url": "https://www.linkedin.com/in/katiemacaulay-1/"
         }
       ]
     },
